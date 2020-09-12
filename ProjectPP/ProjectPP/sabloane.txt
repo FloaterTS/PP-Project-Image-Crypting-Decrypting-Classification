@@ -1,0 +1,10 @@
+sabloane/cifra0.bmp
+sabloane/cifra1.bmp
+sabloane/cifra2.bmp
+sabloane/cifra3.bmp
+sabloane/cifra4.bmp
+sabloane/cifra5.bmp
+sabloane/cifra6.bmp
+sabloane/cifra7.bmp
+sabloane/cifra8.bmp
+sabloane/cifra9.bmp
